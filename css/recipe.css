@@ -1,0 +1,30 @@
+body {
+    background-color: papayawhip;
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 800;
+}
+
+img {
+    width: 33%;
+    height: auto;
+}
+
+.credit {
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 600;
+    color: goldenrod;
+}
+
+#home-link {
+    font-weight: 800;
+    font-size: 28px;
+}

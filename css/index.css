@@ -1,0 +1,14 @@
+body {
+    background-color: papayawhip;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.list {
+    font-size: 24px;
+    font-weight: 400;
+}
