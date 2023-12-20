@@ -6,9 +6,14 @@ body {
 h1 {
     font-size: 48px;
     font-weight: 800;
+    margin-left: 35px;
 }
 
 .list {
     font-size: 24px;
     font-weight: 400;
+}
+
+.item {
+    padding-top: 10px;
 }
