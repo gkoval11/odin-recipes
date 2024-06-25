@@ -1,4 +1,6 @@
-@font-face {font-family: Simpsonfont; src: url('/home/gkov/Downloads/simpsonfont/Simpsonfont DEMO.otf')}
+/* @font-face {font-family: Simpsonfont; src: url('/home/gkov/Downloads/simpsonfont/Simpsonfont DEMO.otf')} */
+@font-face {font-family: Simpsonfont; src: url('https://www.dafont.com/simpsonfont.font')}
+
 
 html {
     background-color: pink;
@@ -8,7 +10,7 @@ html {
 
 body {
     /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
-    font-family: Simpsonfont, Geneva, sans-serif;
+    font-family: Simpsonfont, sans-serif;
     color: yellow; 
 }
 
